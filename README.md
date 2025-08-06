@@ -8,8 +8,10 @@ By analyzing trends in opening choices, time controls, and opponent rating range
 **Conclusion:**
 By analyzing and implementing trends in opening choices, time controls, and opponent rating ranges, I can improve my chess rating by up to 51%, bringing my initial rating of 1320 up to 1993 after completing 100 matches. This gain includes a 14% boost from using optimal openings, a 28% increase by consistently playing the 8+0 time control, and a 9% improvement from targeting opponents roughly 180 points higher in rating.
 
-## Chess Improvement Report
+## Chess Improvement Report/Dashboard
 
-Here is the full report:
+Here is the full report & dashboard:
 
 ![Chess Improvement Report](Chess_Improvement_Report.pdf)
+
+![Chess Improvement Dashboard](Chess_Improvement_Dashboard.pdf)
